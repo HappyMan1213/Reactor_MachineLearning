@@ -1,4 +1,4 @@
-# Reactor_Ml
+# Reactor_ML
 Reactor Parameter Analysis with Machine Learning
 
 1、使用一维热工水力计算程序完成数据生成功能（relap5 mod3.4）
